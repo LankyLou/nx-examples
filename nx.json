@@ -65,5 +65,5 @@
     { "plugin": "@nx/jest/plugin", "options": { "targetName": "test" } }
   ],
   "defaultBase": "master",
-  "nxCloudId": "692f0baa80aa1348e24a2576"
+  "nxCloudId": "69300e26039963b28b83e62d"
 }
